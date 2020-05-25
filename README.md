@@ -1,6 +1,6 @@
 # authored-cp-problems
 
-## A list of CP problems authored my me
+## A list of CP problems authored by me
 
 TODO: Add Solution Codes and Editorials
 
