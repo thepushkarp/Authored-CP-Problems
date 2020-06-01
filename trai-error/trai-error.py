@@ -1,6 +1,5 @@
 import math
 
-
 def heron( sd, s , count):
     x = math.sqrt(s*(s - sd[0])*(s - sd[1])*(s-sd[2]))    
     if x - math.floor(x) == 0.0:
